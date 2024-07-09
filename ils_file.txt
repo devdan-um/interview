@@ -1,0 +1,7 @@
+Alumno : ils
+Curso: Desarrollo de Aplicaciones
+Materias:
+Gestion de Proyectos Informaticos		4 horas semanales
+Desarrollo de Aplicaciones Moviles		4 horas semanales
+Diseño y Programacion Web		10 horas semanales
+Programacion Orientada a Objetos		12 horas semanales
